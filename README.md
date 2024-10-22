@@ -4,3 +4,4 @@ Pengalaman Belajar di Dicoding
 Belajar kelas Memulai Pemrograman Git Dan GitHub. (Progres 38%)
 * Belajar Dasar Git dengan GitHub.
 * Belajar Commit directly to the main branch.
+* Belajar lagi.
