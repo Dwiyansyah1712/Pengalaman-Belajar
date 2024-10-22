@@ -6,4 +6,4 @@ Belajar kelas Memulai Pemrograman Git Dan GitHub. (Progres 38%)
 * Belajar Commit directly to the main branch.
 * Belajar lagi.
 
-## PERUBAHAN PADA MAIN 
+## perubahan pada Development
